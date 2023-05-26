@@ -1,0 +1,31 @@
+.box{
+    padding: 50px;
+    color: #000;
+    font-family:cursive;
+    margin:auto;
+    width:800px;
+    
+}
+.box__title{
+    background-image: linear-gradient(to left, #c79081 0%, #dfa579 100%);
+    padding: 5px;
+}
+.box_content{
+    background-image: linear-gradient(to left, #ebbba7 0%, #cfc7f8 100%);
+   font: weight 800px;;
+    padding: 20px;
+}
+.sub{
+    margin-left: 40px;
+}
+.right{
+    text-align:right;
+    line-height: 26pt;
+   position: relative;
+   justify-content:center;
+}
+.left{
+    position: absolute;
+    line-height: 26pt;
+   left:420px;
+}
